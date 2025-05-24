@@ -19,9 +19,9 @@ Welcome to my GitHub! I'm a passionate **full stack web developer** and the foun
 ### 📝 Latest Blog Posts on [Banking Insights](https://bankinginsights.blog)
 
 
-- ✅ [SBI Personal Loan 2025: Eligibility, Interest Rate, Documents, & More](https://bankinginsights.blog/sbi-personal-loan-2025/)
-- ✅ [Crypto Taxation in India 2025: A Detailed Guide](https://bankinginsights.blog/crypto-taxation-india-2025/)
-- ✅ [Indian Overseas Bank Local Bank Officer Recruitment 2025-26](https://bankinginsights.blog/iob-lbo-recruitment-2025/)
+- ✅ [SBI Personal Loan 2025: Eligibility, Interest Rate, Documents, & More](https://bankinginsights.blog/sbi-personal-loan-features-eligibility-interest-rates-and-more-2025-guide/)
+- ✅ [Crypto Taxation in India 2025: A Detailed Guide](https://bankinginsights.blog/crypto-taxation-in-india-2025-complete-guide-to-laws-rates-and-compliance/))
+- ✅ [Indian Overseas Bank Local Bank Officer Recruitment 2025-26](https://bankinginsights.blog/iob-recruitment-2025/)
 
 ---
 
