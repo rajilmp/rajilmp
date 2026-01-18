@@ -2,7 +2,7 @@
 
 ## 💻 Website Developer | ✍️ Blogger at [Banking Insights](https://bankinginsights.blog) | 🚀 Tech & Finance Enthusiast
 
-Welcome to my GitHub! I'm a passionate **full stack web developer** and the founder of **[Banking Insights](https://bankinginsights.blog)** — a blog where I decode banking, finance, and technology to make them simple and accessible. I also blog at [Exam Mentor](https://exammentor.org/). Exam Mentor is a dedicated educational blog that provides comprehensive study materials, exam updates, and preparation strategies for aspirants of competitive exams like SSC, Banking, Railways, and State Government jobs. I also write at [Peoples News](https://peoplesnewsletter.com) Website
+Welcome to my GitHub! I'm a passionate **full stack web developer** and the founder of **[Indian Banker](https://indianbanker.com/)** — a blog where I decode banking, finance, and technology to make them simple and accessible. I also blog at [Todays Global News](https://todaysglobalnews.com/). Exam Mentor is a dedicated educational blog that provides comprehensive study materials, exam updates, and preparation strategies for aspirants of competitive exams like SSC, Banking, Railways, and State Government jobs. I also write at [Peoples News](https://peoplesnewsletter.com) Website
 
 ### 🧑‍💻 What I Do
 
@@ -16,12 +16,11 @@ Welcome to my GitHub! I'm a passionate **full stack web developer** and the foun
 
 ---
 
-### 📝 Latest Blog Posts on [Banking Insights](https://bankinginsights.blog)
+### 📝 Latest Blog Posts on [Indian Banker ](https://indianbanker.com/)
+https://indianbanker.com/banking-news/shadowfax-ipo-gmp-today/
 
 
-- ✅ [SBI Personal Loan 2025: Eligibility, Interest Rate, Documents, & More](https://bankinginsights.blog/sbi-personal-loan-features-eligibility-interest-rates-and-more-2025-guide/)
-- ✅ [Crypto Taxation in India 2025: A Detailed Guide](https://bankinginsights.blog/crypto-taxation-in-india-2025-complete-guide-to-laws-rates-and-compliance/))
-- ✅ [Indian Overseas Bank Local Bank Officer Recruitment 2025-26](https://bankinginsights.blog/iob-recruitment-2025/)
+- 
 
 ---
 
