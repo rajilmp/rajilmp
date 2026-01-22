@@ -2,7 +2,7 @@
 
 ## 💻 Website Developer | ✍️ Blogger at [Indian Banker](https://indianbanker.com/) | 🚀 Tech & Finance Enthusiast
 
-Welcome to my GitHub! I'm a passionate **full stack web developer** and the founder of **[Indian Banker](https://indianbanker.com/)** — a blog where I decode banking, finance, and technology to make them simple and accessible. I also blog at [Todays Global News](https://todaysglobalnews.com/). Exam Mentor is a dedicated educational blog that provides comprehensive study materials, exam updates, and preparation strategies for aspirants of competitive exams like SSC, Banking, Railways, and State Government jobs. I also write at [Peoples News](https://peoplesnewsletter.com) Website
+Welcome to my GitHub! I'm a passionate **full stack web developer** and the founder of **[Indian Banker](https://indianbanker.com/)** — a blog where I decode banking, finance, and technology to make them simple and accessible. I also blog at [Todays Global News](https://todaysglobalnews.com/). Exam Mentor is a dedicated educational blog that provides comprehensive study materials, exam updates, and preparation strategies for aspirants of competitive exams like SSC, Banking, Railways, and State Government jobs. I also write at [Peoples News](https://peoplesnewsletter.com) [Website Top Mega News] (https://topmeganews.com/)
 
 ### 🧑‍💻 What I Do
 
@@ -18,6 +18,8 @@ Welcome to my GitHub! I'm a passionate **full stack web developer** and the foun
 
 ### 📝 Latest Blog Posts on [Indian Banker ](https://indianbanker.com/)
 https://indianbanker.com/banking-news/shadowfax-ipo-gmp-today/
+Latest Blog Posts on Top Mega News
+https://topmeganews.com/entertainment-news/shrinking-season-3/
 
 
 - 
